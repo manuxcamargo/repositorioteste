@@ -3,4 +3,13 @@ form {
     flex-direction: column;
     width: 50%;
     margin: auto;
+
+}
+#submit1 {
+    width: 30%;
+    margin: auto;
+    background-color: blue;
+}
+#sub1:hover{
+    background-color: rgb(158, 71, 240);
 }
